@@ -1,0 +1,35 @@
+{
+  "employee": [
+    {
+      "id": 100,
+      "name": "fathimth",
+      "DOJ": "16-08-2022",
+      "salary": 500000,
+      "email": "fathimath@gmail.com",
+      "password": "123456"
+    }
+  ],
+  "users": [
+    {
+      "name": "",
+      "email": "",
+      "pass": "",
+      "repass": "",
+      "id": 1
+    },
+    {
+      "name": "",
+      "email": "",
+      "pass": "",
+      "repass": "",
+      "id": 2
+    },
+    {
+      "name": "fathimathi",
+      "email": "fathimathi@gmail",
+      "pass": "123",
+      "repass": "123",
+      "id": 3
+    }
+  ]
+}
